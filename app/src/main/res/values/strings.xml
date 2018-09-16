@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CarchaCatherineBhelLab3</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="distance_from_ust_1_2km">Distance From UST: 1.2KM</string>
+    <string name="location_dimasalang_road_and_dos_castillas_manila_luzon_philippines">Location: Dimasalang Road and Dos Castillas, Manila, Luzon Philippines</string>
+    <string name="dangwa_flower_market">Dangwa Flower Market</string>
+    <string name="todo">TODO</string>
+</resources>
